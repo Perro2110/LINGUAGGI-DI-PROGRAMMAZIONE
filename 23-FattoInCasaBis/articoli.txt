@@ -1,0 +1,20 @@
+1 pantaloni
+North Pole
+L
+Summit
+100.9 4 10
+2 giacca
+Ski Connection
+L 240
+High Stake
+204.4 24
+3 pantaloni
+Rossi Sport
+M
+Trekker
+135.6 6 15
+4 giacca
+Giesse
+L 300
+Explorer
+1.3 16
