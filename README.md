@@ -1,2 +1,2 @@
 # LinguaggiDiProgrammazione
-SecondoAnnoUni - JAVA & Py
+SecondoAnnoUni - JAVA, Py, e Haskell
