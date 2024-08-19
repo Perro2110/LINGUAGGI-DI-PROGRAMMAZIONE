@@ -1,2 +1,2 @@
 # LinguaggiDiProgrammazione
-SecondoAnnoUni - JAVA, Py, e Haskell
+Es e test vari su - Java, Python, e Haskell
